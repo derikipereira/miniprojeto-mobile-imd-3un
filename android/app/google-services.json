@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350126690527",
+    "project_id": "imdminiproj",
+    "storage_bucket": "imdminiproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350126690527:android:6d1336a66128d53d50596a",
+        "android_client_info": {
+          "package_name": "com.example.f09_recursos_nativos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVtkupBXKb7bKSttxpPI9rQmuJqdQn0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
